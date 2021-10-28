@@ -1,2 +1,3 @@
 *.cfg
 backup/
+__pycache__/
